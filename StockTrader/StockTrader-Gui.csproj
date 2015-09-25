@@ -99,7 +99,7 @@
       <Name>StockStrategy</Name>
     </ProjectReference>
     <ProjectReference Include="..\XiaDan\StockTrader.csproj">
-      <Project>{CA5AEBAD-BDCF-4047-B3DC-6DC9D18B2874}</Project>
+      <Project>{08591e6f-7dcc-4806-bfae-aa5f10f16fb9}</Project>
       <Name>StockTrader</Name>
     </ProjectReference>
   </ItemGroup>
